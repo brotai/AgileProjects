@@ -1,11 +1,9 @@
 # AgileProjects
-
 ## JXTC
-#
-## Team members
+### Team members
 ~~~md
-- Joenella
-- Tainui
-- Zoe
-- Cairo
+- Joenella Hiko
+- Tainui Weti
+- Zoe Proudfoot
+- Cairo Franks
 ~~~
