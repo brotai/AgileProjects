@@ -12,3 +12,4 @@ Joenella is the teamleader
 Tainui is a Developer
 Zoe is a Developer
 Cairo is a Developer
+- We are working on establishing our workflow and documenting everything.
