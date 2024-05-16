@@ -1,5 +1,5 @@
 # AgileProjects
-## JXTC
+## JZTC
 ### Team members
 ~~~md
 - Joenella Hiko
